@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Taxi driver</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+     <string name="login">Логин</string>
+    <string name="queue">Очередь</string>
+    <string name="order">Заказ</string>
+    <string name="password">Пароль</string>
+    <string name="save">Сохранить</string>
+    <string name="load">Загрузить</string>
+    <string name="goforwards">Вперед</string>
+    <string name="queuecars">Очередь машин</string>
+    <string name="zakaz">Номер заказа</string>
+    <string name="telefon">Телефон абонента</string>
+    <string name="kode">Код абонента</string>
+    <string name="dat">Дата</string>
+    <string name="tim">Время</string>
+    <string name="adres">Адрес</string>
+    <string name="car">Машина</string>
+    <string name="uvedomlen">Уведомлен</string>
+    <string name="accept">Принял</string>
+    <string name="reject">Отклонил</string>
+    <string name="gobackwards">Назад</string>
+    <string name="LabActFour">Регистрация стоянки</string>
+    <string name="LabActThree">Получение заказа</string>
+    <string name="LabActTwo">Очередь машин</string>
+    <string name="LabActMain">Таксист Пчелка</string>
+    <string name="register">Зарегистрироваться</string>
+    <string-array name="stay">
+        <item>Черёмушки</item>
+        <item>Элеватор</item>
+        <item>Глобус</item>
+        <item>Рынок</item>
+        <item>Магнолия</item>
+        <item>Пентагон</item>
+        <item>Военный</item>
+        <item>Та сторона</item>
+        <item>Парковый</item>
+        <item>синий</item>
+        <item>красный</item>
+    </string-array>
+    <string name="CallAbon">Звонок абоненту</string>
+    <string name="melody1">Мелодия 1</string>
+    <string name="melody2">Мелодия 2</string>
+    <string name="melody3">Мелодия 3</string>
+    <string name="map">Карта поиск</string>
+    <string name="mapru">Карта Тихорецк</string>
+    <string name="brightnesslow">Уменьшать яркость</string>
+
+</resources>
